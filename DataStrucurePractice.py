@@ -43,3 +43,9 @@ class ListsPractice:
         print 'index',index
         print "value present in list",list3[index]
 
+    list4 = []
+
+    list4.append(10)
+    list4.append(20)
+
+    print list4

@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6640b278-023c-4ca9-90c8-6532b7565b5a" name="Default" comment="" />
+    <list default="true" id="6640b278-023c-4ca9-90c8-6532b7565b5a" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BinarySearchTrees/BSTDefinition.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BinarySearchTrees/BSTTestCases.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BinarySearchTrees/__init__.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DataStrucurePractice.py" afterPath="$PROJECT_DIR$/DataStrucurePractice.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LinkedLists/BasicOperations.py" afterPath="$PROJECT_DIR$/LinkedLists/BasicOperations.py" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,10 +21,12 @@
     <SUITE FILE_PATH="coverage/practice$ReversingAString.coverage" NAME="ReversingAString Coverage Results" MODIFIED="1505469520686" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/StringAlgorithms" />
     <SUITE FILE_PATH="coverage/practice$PairWithGivenSumInRotatedArray.coverage" NAME="PairWithGivenSumInRotatedArray Coverage Results" MODIFIED="1505473627688" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LIstArrayAlgorithms" />
     <SUITE FILE_PATH="coverage/practice$FirstPythonFile.coverage" NAME="FirstPythonFile Coverage Results" MODIFIED="1505397943892" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/practice$DataStrucurePractice.coverage" NAME="DataStrucurePractice Coverage Results" MODIFIED="1505471757561" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/practice$DataStrucurePractice.coverage" NAME="DataStrucurePractice Coverage Results" MODIFIED="1505497800513" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/practice$BasicsOfString.coverage" NAME="BasicsOfString Coverage Results" MODIFIED="1505443037798" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/StringAlgorithms" />
     <SUITE FILE_PATH="coverage/practice$ReplaceElementWithGreatestOnRight.coverage" NAME="ReplaceElementWithGreatestOnRight Coverage Results" MODIFIED="1505473758606" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LIstArrayAlgorithms" />
     <SUITE FILE_PATH="coverage/practice$SearchElementInASortedRotatedArray.coverage" NAME="SearchElementInASortedRotatedArray Coverage Results" MODIFIED="1505414241007" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LIstArrayAlgorithms" />
+    <SUITE FILE_PATH="coverage/practice$BSTOperations.coverage" NAME="BSTOperations Coverage Results" MODIFIED="1505493538260" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BinarySearchTrees" />
+    <SUITE FILE_PATH="coverage/practice$BSTTestCases.coverage" NAME="BSTTestCases Coverage Results" MODIFIED="1505498719990" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BinarySearchTrees" />
   </component>
   <component name="FileEditorManager">
     <leaf>
@@ -41,11 +50,31 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="BasicOperations.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="BasicOperations.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/LinkedLists/BasicOperations.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="12" lean-forward="true" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
+            <state relative-caret-position="255">
+              <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BSTDefinition.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/BinarySearchTrees/BSTDefinition.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="378">
+              <caret line="70" column="24" lean-forward="true" selection-start-line="70" selection-start-column="24" selection-end-line="70" selection-end-column="24" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BSTTestCases.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BinarySearchTrees/BSTTestCases.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="14" column="28" lean-forward="false" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="28" />
               <folding />
             </state>
           </provider>
@@ -73,10 +102,14 @@
         <option value="$PROJECT_DIR$/LIstArrayAlgorithms/SearchElementInASortedRotatedArray.py" />
         <option value="$PROJECT_DIR$/StringAlgorithms/BasicsOfString.py" />
         <option value="$PROJECT_DIR$/StringAlgorithms/ReversingAString.py" />
-        <option value="$PROJECT_DIR$/DataStrucurePractice.py" />
         <option value="$PROJECT_DIR$/LIstArrayAlgorithms/PairWithGivenSumInRotatedArray.py" />
         <option value="$PROJECT_DIR$/LIstArrayAlgorithms/ReplaceElementWithGreatestOnRight.py" />
         <option value="$PROJECT_DIR$/LinkedLists/BasicOperations.py" />
+        <option value="$PROJECT_DIR$/BinarySearchTrees/BinarySearchTreeDefinition.py" />
+        <option value="$PROJECT_DIR$/BinarySearchTrees/BSTOperations.py" />
+        <option value="$PROJECT_DIR$/DataStrucurePractice.py" />
+        <option value="$PROJECT_DIR$/BinarySearchTrees/BSTTestCases.py" />
+        <option value="$PROJECT_DIR$/BinarySearchTrees/BSTDefinition.py" />
       </list>
     </option>
   </component>
@@ -118,7 +151,12 @@
             <path>
               <item name="practice" type="b2602c69:ProjectViewProjectNode" />
               <item name="practice" type="462c0819:PsiDirectoryNode" />
-              <item name="LinkedLists" type="462c0819:PsiDirectoryNode" />
+              <item name="BinarySearchTrees" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="practice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="practice" type="462c0819:PsiDirectoryNode" />
+              <item name="LIstArrayAlgorithms" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -144,21 +182,39 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.ReplaceElementWithGreatestOnRight">
-    <configuration name="BasicsOfString" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.BSTTestCases">
+    <configuration name="BSTOperations" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/StringAlgorithms" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BinarySearchTrees" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="practice" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/StringAlgorithms/BasicsOfString.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BinarySearchTrees/BSTOperations.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="BSTTestCases" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BinarySearchTrees" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="practice" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BinarySearchTrees/BSTTestCases.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -217,38 +273,20 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="ReversingAString" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/StringAlgorithms" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="practice" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/StringAlgorithms/ReversingAString.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-    </configuration>
     <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Python.DataStrucurePractice" />
-      <item index="1" class="java.lang.String" itemvalue="Python.BasicsOfString" />
-      <item index="2" class="java.lang.String" itemvalue="Python.ReversingAString" />
-      <item index="3" class="java.lang.String" itemvalue="Python.PairWithGivenSumInRotatedArray" />
-      <item index="4" class="java.lang.String" itemvalue="Python.ReplaceElementWithGreatestOnRight" />
+      <item index="1" class="java.lang.String" itemvalue="Python.PairWithGivenSumInRotatedArray" />
+      <item index="2" class="java.lang.String" itemvalue="Python.ReplaceElementWithGreatestOnRight" />
+      <item index="3" class="java.lang.String" itemvalue="Python.BSTOperations" />
+      <item index="4" class="java.lang.String" itemvalue="Python.BSTTestCases" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.ReplaceElementWithGreatestOnRight" />
-        <item index="1" class="java.lang.String" itemvalue="Python.PairWithGivenSumInRotatedArray" />
-        <item index="2" class="java.lang.String" itemvalue="Python.DataStrucurePractice" />
-        <item index="3" class="java.lang.String" itemvalue="Python.ReversingAString" />
-        <item index="4" class="java.lang.String" itemvalue="Python.BasicsOfString" />
+        <item index="0" class="java.lang.String" itemvalue="Python.BSTTestCases" />
+        <item index="1" class="java.lang.String" itemvalue="Python.DataStrucurePractice" />
+        <item index="2" class="java.lang.String" itemvalue="Python.BSTOperations" />
+        <item index="3" class="java.lang.String" itemvalue="Python.ReplaceElementWithGreatestOnRight" />
+        <item index="4" class="java.lang.String" itemvalue="Python.PairWithGivenSumInRotatedArray" />
       </list>
     </recent_temporary>
   </component>
@@ -267,24 +305,25 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="10" y="43" width="1381" height="837" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25765496" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33962265" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32884097" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25765496" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32884097" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32884097" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39892185" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
@@ -296,7 +335,35 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/BinarySearchTrees/BSTTestCases.py</url>
+          <line>5</line>
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/BinarySearchTrees/BSTTestCases.py</url>
+          <line>6</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/BinarySearchTrees/BSTDefinition.py</url>
+          <line>49</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/BinarySearchTrees/BSTTestCases.py</url>
+          <line>13</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/BinarySearchTrees/BSTTestCases.py</url>
+          <line>4</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="6" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
@@ -364,14 +431,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DataStrucurePractice.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="433">
-          <caret line="45" column="0" lean-forward="false" selection-start-line="45" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/LIstArrayAlgorithms/FindingStartOfRotatedArray.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
@@ -388,6 +447,14 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/LinkedLists/BasicOperations.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/LIstArrayAlgorithms/ReplaceElementWithGreatestOnRight.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
@@ -396,10 +463,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/LinkedLists/BasicOperations.py">
+    <entry file="file://$PROJECT_DIR$/BinarySearchTrees/BSTOperations.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="12" lean-forward="true" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
+        <state relative-caret-position="210">
+          <caret line="14" column="0" lean-forward="true" selection-start-line="6" selection-start-column="4" selection-end-line="14" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataStrucurePractice.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="464">
+          <caret line="48" column="19" lean-forward="false" selection-start-line="48" selection-start-column="19" selection-end-line="48" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BinarySearchTrees/BSTTestCases.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="28" lean-forward="false" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BinarySearchTrees/BSTDefinition.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="70" column="24" lean-forward="true" selection-start-line="70" selection-start-column="24" selection-end-line="70" selection-end-column="24" />
           <folding />
         </state>
       </provider>
