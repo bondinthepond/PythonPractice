@@ -49,3 +49,10 @@ class ListsPractice:
     list4.append(20)
 
     print list4
+
+    print list4.pop(0)
+
+    print list4
+    list4.__delitem__(0)
+
+    print list4
