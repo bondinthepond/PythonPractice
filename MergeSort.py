@@ -62,6 +62,6 @@ def merge(list, low, mid, high):
     print list
 
 
-input_list =[7,1,2,3,4,0,9,3]
+
 
 mergeSortArray(input_list, 0, len(input_list) - 1)
